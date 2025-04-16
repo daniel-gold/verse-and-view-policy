@@ -1,4 +1,4 @@
-Privacy Policy for Verse & View
+Privacy Policy for Verse & View Chrome Extension
 
 Last updated: April 16, 2025
 

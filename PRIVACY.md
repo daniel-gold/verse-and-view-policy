@@ -9,12 +9,12 @@ Verse & View is a Chrome extension that displays daily Bible verses alongside sc
 1. Information We Collect
 
 We may collect the following types of data:
-	•	Personally Identifiable Information (PII):
-Such as your name or email address, if you choose to sign up for personalization features in the future.
-	•	Usage Data:
-We may collect anonymized analytics or preferences to improve the experience.
-	•	Payment Information:
-If and when we introduce premium features, payment processing will be securely handled via a third-party service (e.g., Stripe). We do not store or process payment data directly.
+
+1. Personally Identifiable Information (PII): Such as your name or email address, if you choose to sign up for personalization features in the future.
+
+3. Usage Data: We may collect anonymized analytics or preferences to improve the experience.
+
+4. Payment Information: If and when we introduce premium features, payment processing will be securely handled via a third-party service (e.g., Stripe). We do not store or process payment data directly.
 
 ⸻
 

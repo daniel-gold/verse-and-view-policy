@@ -10,20 +10,20 @@ Verse & View is a Chrome extension that displays daily Bible verses alongside sc
 
 We may collect the following types of data:
 
-1. Personally Identifiable Information (PII): Such as your name or email address, if you choose to sign up for personalization features in the future.
+- Personally Identifiable Information (PII): Such as your name or email address, if you choose to sign up for personalization features in the future.
 
-3. Usage Data: We may collect anonymized analytics or preferences to improve the experience.
+- Usage Data: We may collect anonymized analytics or preferences to improve the experience.
 
-4. Payment Information: If and when we introduce premium features, payment processing will be securely handled via a third-party service (e.g., Stripe). We do not store or process payment data directly.
+- Payment Information: If and when we introduce premium features, payment processing will be securely handled via a third-party service (e.g., Stripe). We do not store or process payment data directly.
 
 ⸻
 
 2. How We Use Your Data
 
 We use your data strictly to:
-	•	Display relevant or personalized content (e.g., verse recommendations)
-	•	Improve extension functionality and performance
-	•	Provide access to future paid features or subscriptions
+- Display relevant or personalized content (e.g., verse recommendations)
+- Improve extension functionality and performance
+- Provide access to future paid features or subscriptions
 
 We do not sell your data or use it for advertising purposes.
 
@@ -44,9 +44,9 @@ If we use third-party services (e.g., Google Cloud, Stripe), they will only rece
 5. Your Rights
 
 You have the right to:
-	•	Request access to any personal data we may hold
-	•	Request deletion of your data
-	•	Opt out of future communications or features
+- Request access to any personal data we may hold
+- Request deletion of your data
+- Opt out of future communications or features
 
 Please contact us at verseandview@gmail.com for any privacy-related requests.
 
